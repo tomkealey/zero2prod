@@ -3,8 +3,6 @@
 # Zero to Production in Rust
 <div align="center"><a href="https://zero2prod.com" target="_blank"><img src="https://www.zero2prod.com/assets/img/zero2prod.png" width="75%" /></a></div>
 
-[Zero To Production In Rust](https://zero2prod.com) is an opinionated introduction to backend development using Rust.
-
 ## Learning Objectives
 - Navigate and leverage Rust's crates ecosystem
 - Structure your application to make it modular and extensible
@@ -14,3 +12,16 @@
 - Implement a robust error handling strategy
 - Observe the state of your application using structured logs
 - Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
+
+## Chapters
+1. ... ✅
+2. ... ✅
+3. ... ✅
+4. ... ✅
+5. ... ✅
+6. ...
+7. ...
+8. ...
+9. ...
+10. ...
+11. ...
