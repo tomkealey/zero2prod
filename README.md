@@ -5,4 +5,12 @@
 
 [Zero To Production In Rust](https://zero2prod.com) is an opinionated introduction to backend development using Rust.
 
-This repository serves as my playground for a play-by-play intro to Rust in a Cloud Native ecosystem.
+## Learning Objectives
+- Navigate and leverage Rust's crates ecosystem
+- Structure your application to make it modular and extensible
+- Write tests, from single units to full-blown integration tests
+- Enforce your domain invariants using Rust's type system
+- Authenticate and authorize users of your API
+- Implement a robust error handling strategy
+- Observe the state of your application using structured logs
+- Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
